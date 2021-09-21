@@ -1,6 +1,6 @@
-### Hi there 👋 **khabibkhanov/Khabibkhanov**
+### Hi there 👋 <a href="https://github.com/khabibkhanov">Hamidulloh</a>
 
-I'm Web Developer
+I am Software Engineer who live in Tashkent
 
 ![](https://github-readme-stats.vercel.app/api?username=khabibkhanov&count_private=true&show_icons=true&theme=react)
 
