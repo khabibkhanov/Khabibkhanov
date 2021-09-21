@@ -2,7 +2,7 @@
 
 ## I am <a href="https://github.com/khabibkhanov">Hamidulloh</a> and I am Software Engineer
 
-### How to reach me: <a href="mailto:hamidulloh2002@gmail.com">Gmail</a>
+### How to reach me: <a href="mailto:hamidulloxon2002@gmail.com">hamidulloxon2002@gmail.com</a>
 
 ![](https://github-readme-stats.vercel.app/api?username=khabibkhanov&count_private=true&show_icons=true&theme=react)
 
