@@ -1,6 +1,6 @@
-### Hi there 👋 <a href="https://github.com/khabibkhanov">Hamidulloh</a>
+### Hi there 👋 
 
-I am Software Engineer who live in Tashkent
+##I am <a href="https://github.com/khabibkhanov">Hamidulloh</a> and I am Software Engineer
 
 ![](https://github-readme-stats.vercel.app/api?username=khabibkhanov&count_private=true&show_icons=true&theme=react)
 
