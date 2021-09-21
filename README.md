@@ -3,7 +3,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=khabibkhanov&count_private=true&show_icons=true&theme=react)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&show_icons=true&theme=react)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=khabibkhanov&show_icons=true&theme=react)
 <!--
 **khabibkhanov/Khabibkhanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
