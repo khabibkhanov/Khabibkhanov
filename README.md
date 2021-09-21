@@ -1,11 +1,13 @@
 ### Hi there 👋
 
+
+![](https://github-readme-stats.vercel.app/api?username=khabibkhanov&count_private=true&show_icons=true&theme=react)
 <!--
 **khabibkhanov/Khabibkhanov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-![](https://github-readme-stats.vercel.app/api?username=khabibkhanov&count_private=true&show_icons=true&theme=react)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
