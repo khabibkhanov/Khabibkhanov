@@ -6,6 +6,8 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=khabibkhanov&count_private=true&show_icons=true&theme=react)
 
+### My Most Used Languages
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Khabibkhanov&show_icons=true&theme=react)
 
 ### Social Media:
