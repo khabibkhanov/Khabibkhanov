@@ -4,6 +4,8 @@
 
 ### How to reach me: <a href="mailto:hamidulloxon2002@gmail.com">hamidulloxon2002@gmail.com</a>
 
+##My GitHub Stats:
+
 ![](https://github-readme-stats.vercel.app/api?username=khabibkhanov&count_private=true&show_icons=true&theme=react)
 
 ### My Most Used Languages
