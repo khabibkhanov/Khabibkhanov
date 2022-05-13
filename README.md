@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-## I am <a href="https://t.me/khabibkhanov">Hamidulloh</a> and I am Software Engineer
+## I am <a href="https://t.me/khabibkhanov">Hamidulloh</a> and I am Software Engineer at Drensys
 
 ### How to reach me: <a href="mailto:hamidulloxon2002@gmail.com">hamidulloxon2002@gmail.com</a>
 
